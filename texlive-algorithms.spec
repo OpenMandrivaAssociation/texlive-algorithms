@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-algorithms
 Version:	0.1
-Release:	5
+Release:	6
 Summary:	A suite of tools for typesetting algorithms in pseudo-code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/algorithms
