@@ -5,9 +5,9 @@ Summary:	A suite of tools for typesetting algorithms in pseudo-code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/algorithms
 License:	LGPL
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/algorithms.r42428.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/algorithms.doc.r42428.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/algorithms.source.r42428.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/algorithms.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/algorithms.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/algorithms.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
