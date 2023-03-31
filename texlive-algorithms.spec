@@ -1,6 +1,6 @@
 Name:		texlive-algorithms
 Version:	42428
-Release:	2
+Release:	3
 Summary:	A suite of tools for typesetting algorithms in pseudo-code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/algorithms
