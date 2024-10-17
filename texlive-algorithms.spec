@@ -3,7 +3,7 @@ Version:	42428
 Release:	3
 Summary:	A suite of tools for typesetting algorithms in pseudo-code
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/algorithms
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/algorithms
 License:	LGPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/algorithms.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/algorithms.doc.r%{version}.tar.xz
